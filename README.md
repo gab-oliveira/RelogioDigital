@@ -1,1 +1,1 @@
-# Este foi +1 projrtinho de pratica para fixação de conteudo.
+# Este foi +1 projetinho de prática para fixação de conteudo.
